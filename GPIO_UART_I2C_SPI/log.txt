@@ -1,0 +1,2 @@
+20:37:43: No s'ha pogut suprimir el fitxer 'C:\Users\Adria Bubi\AppData\Local\Programs\KiCad\8.0\share\kicad\symbols\Interface_Expansion.bak' (error 5: Acceso denegado.)
+20:37:43: No s'ha pogut copiar el fitxer 'C:\Users\Adria Bubi\AppData\Local\Programs\KiCad\8.0\share\kicad\symbols\Interface_Expansion.kicad_sym' a 'C:\Users\Adria Bubi\AppData\Local\Programs\KiCad\8.0\share\kicad\symbols\Interface_Expansion.bak' (error 5: Acceso denegado.)
